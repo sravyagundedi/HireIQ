@@ -1,0 +1,14 @@
+question_type: problem_solving
+criteria:
+  problem_understanding:
+    weight: 25
+    description: Correctly identifies the problem and constraints.
+  approach:
+    weight: 35
+    description: Uses a logical and practical debugging approach.
+  technical_depth:
+    weight: 25
+    description: Demonstrates appropriate technical reasoning.
+  communication:
+    weight: 15
+    description: Explains the approach clearly.

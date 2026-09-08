@@ -1,0 +1,14 @@
+question_type: behavioral
+criteria:
+  relevance:
+    weight: 30
+    description: Directly addresses the behavioral question.
+  structure:
+    weight: 25
+    description: Clear situation, action and result.
+  communication:
+    weight: 25
+    description: Clear and concise explanation.
+  reflection:
+    weight: 20
+    description: Demonstrates learning and ownership.

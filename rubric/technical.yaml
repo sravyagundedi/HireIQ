@@ -1,0 +1,14 @@
+question_type: technical
+criteria:
+  technical_knowledge:
+    weight: 40
+    description: Correctness and depth of technical concepts.
+  correctness:
+    weight: 30
+    description: Accuracy of the answer and examples.
+  communication:
+    weight: 20
+    description: Clarity and logical explanation.
+  completeness:
+    weight: 10
+    description: Covers the important parts of the question.
