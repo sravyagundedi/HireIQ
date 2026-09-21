@@ -1,6 +1,5 @@
 # HireIQ — Multimodal AI Interview Intelligence Platform
 
-A Code A Nova Internship Project 4 implementation based on the supplied brief.
 
 ## Stack
 
